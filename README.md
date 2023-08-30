@@ -1,4 +1,3 @@
-# Pause UCLH
 ![Pause Banner](https://github.com/CodeDann/Pause_UCLH/blob/fb315cb3201d8da8990882f80158b110099de65a/documentation/new-banner-friends.png)
 
 ## Description
@@ -14,3 +13,5 @@ Pause is a Flutter app that runs on iOS and Android.
 - Design: CodeDann
 - Client: UCLH
 - Funding: Friends of UCLH Charity
+- Framework: Flutter
+- Firebase for Database, Deployment, Testing
