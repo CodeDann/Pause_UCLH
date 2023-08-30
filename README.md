@@ -5,6 +5,8 @@ Pause UCLH is an app to support the 8 Week mindfulness course run for parents of
 
 If you have any questions / issues please email pauzdevelopment@gmail.com
 
+If you would like to request account deletion please email pauzdevelopment@gmail.com
+
 ## Development
 
 Pause is a Flutter app that runs on iOS and Android.
