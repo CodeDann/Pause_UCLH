@@ -1,9 +1,12 @@
 # Pause UCLH
-![Pause Banner](https://github.com/CodeDann/pause_app/blob/872d68ced25bd1fba24c8761bfad44bfb055b66a/assets/images/pause_banner.png)
+![Pause Banner](https://github.com/CodeDann/Pause_UCLH/blob/fb315cb3201d8da8990882f80158b110099de65a/documentation/new-banner-friends.png)
 
-Pause is a companion app to assist the running of Mindfulness-based Wellbeing for Parents.
+## Description
+Pause UCLH is an app to support the 8 Week mindfulness course run for parents of children with a chronic illness.
 
-It is a Course run by UCLH for parents of children with long-term health conditions.
+If you have any questions / issues please email pauzdevelopment@gmail.com
+
+## Development
 
 Pause is a Flutter app that runs on iOS and Android.
 
